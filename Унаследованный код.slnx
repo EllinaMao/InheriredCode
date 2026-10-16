@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TargetApp/TargetApp.csproj" Id="e649e628-ea71-406a-9025-8df79e326ae7" />
+  <Project Path="Унаследованный код/InheritedCode.csproj" />
+</Solution>
